@@ -1,6 +1,6 @@
  Alpine microcontainer with Python
 
-This is a micro docker container [![](https://badge.imagelayers.io/nimmis/alpine-python:latest.svg)](https://imagelayers.io/?images=nimmis/alpine-python:latest) based on Alpine 3.3 and Python 2/3
+This is a micro docker container [![](https://badge.imagelayers.io/nimmis/alpine-python:latest.svg)](https://imagelayers.io/?images=nimmis/alpine-python:latest) based on Alpine 3.15 and Python 2/3
 PIP is also installed.
 
 ### Examples
